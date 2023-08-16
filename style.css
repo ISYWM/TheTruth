@@ -25,5 +25,6 @@ p {
     font-weight: 100;
 }
 img {
-    
+    border: 5px solid white;
+    align-self: center;
 }
